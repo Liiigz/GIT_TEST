@@ -1,4 +1,4 @@
 print('ok')
 print('okk')
 print('dev')
-a=10
+a=30
